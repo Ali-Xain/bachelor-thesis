@@ -1,5 +1,3 @@
-# Motivation
-
 # Vision Based Cusrsor Control Using Hand Getures
 
 Vision Based Virtual Mouse is a Desktop Application that shall enable the users to interact more naturally with their computers through hand gestures without using any additional harware or glove at all. It allow all users to perform mouse functions using hand gestures by utilizing the best out of webcam. 
