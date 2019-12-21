@@ -30,9 +30,10 @@ Test Webcam
 
 Install Emgucv 
 
-Set up Enviornment Variables Properly 
-
 Install Visual Studio 
+Download dll files from https://drive.google.com/drive/folders/1xdh7elB03-BHvPUdvlDd-fJv2No1-IWc and placed under debug folder and inside HandGestureRecognition directory.
+
+Add dll and other libraries in Home_path
 
 Open the project and execute it or run just the exe file 
 
