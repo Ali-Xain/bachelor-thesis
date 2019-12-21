@@ -1,0 +1,62 @@
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\HandGestureRecognition.exe.config
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\M2U00251.MPG
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\HandGestureRecognition.exe
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\HandGestureRecognition.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\Emgu.CV.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\Emgu.CV.UI.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\Emgu.Util.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\zlib.net.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\ZedGraph.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\Emgu.CV.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\Emgu.CV.xml
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\Emgu.CV.UI.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\Emgu.CV.UI.xml
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\Emgu.Util.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\Emgu.Util.xml
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\ZedGraph.xml
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\obj\x64\Debug\HandGestureRecognition.Form1.resources
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\obj\x64\Debug\HandGestureRecognition.Properties.Resources.resources
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\obj\x64\Debug\ResGen.read.1.tlog
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\obj\x64\Debug\ResGen.write.1.tlog
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\obj\x64\Debug\HandGestureRecognition.exe
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\obj\x64\Debug\HandGestureRecognition.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\cv210.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\cvaux210.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\cvextern.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\cxcore210.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\highgui210.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\x64\Debug\ml210.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\HandGestureRecognition.exe.config
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x64\Debug\HandGestureRecognition.exe
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x64\Debug\HandGestureRecognition.pdb
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\cvextern.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_calib3d240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_contrib240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_core240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_features2d240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_ffmpeg240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_flann240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_gpu240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_highgui240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_imgproc240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_legacy240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_ml240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_nonfree240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_objdetect240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_photo240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_stitching240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_video240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\opencv_videostab240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\HandGestureRecognition.exe
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\HandGestureRecognition.pdb
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\Emgu.CV.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\Emgu.Util.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\x64\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x64\Debug\HandGestureRecognition.Form1.resources
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x64\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x64\Debug\HandGestureRecognition.csproj.GenerateResource.Cache

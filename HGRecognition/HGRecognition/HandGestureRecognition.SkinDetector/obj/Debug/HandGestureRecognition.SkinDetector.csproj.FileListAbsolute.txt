@@ -1,0 +1,37 @@
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\obj\Debug\ResolveAssemblyReference.cache
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll.CodeAnalysisLog.xml
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll.lastcodeanalysissucceeded
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.csprojResolveAssemblyReference.cache
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.csprojResolveAssemblyReference.cache
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.csprojResolveAssemblyReference.cache
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.csprojResolveAssemblyReference.cache
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb

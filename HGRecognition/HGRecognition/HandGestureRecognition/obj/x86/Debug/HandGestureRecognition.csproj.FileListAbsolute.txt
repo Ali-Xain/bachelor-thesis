@@ -1,0 +1,194 @@
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\ResGen.read.1.tlog
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\ResGen.write.1.tlog
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Mini Xain\Desktop\fyp resources and study\Mouse_Control_via_Webcam_without_emgu_dlls\HandGestureRecognition_Code\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Mini Xain\Desktop\fyp resources and study\Mouse_Control_via_Webcam_without_emgu_dlls\HandGestureRecognition_Code\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\Mini Xain\Desktop\fyp resources and study\Mouse_Control_via_Webcam_without_emgu_dlls\HandGestureRecognition_Code\HandGestureRecognition\HandGestureRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_calib3d240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_contrib240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_core240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_features2d240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_ffmpeg240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_flann240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_gpu240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_highgui240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_imgproc240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_legacy240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_ml240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_nonfree240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_objdetect240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_photo240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_stitching240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_video240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_videostab240.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\Mini Xain\Desktop\amir\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cublas32_42_9.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cudart32_42_9.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cufft32_42_9.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_calib3d240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_contrib240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_core240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_features2d240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_ffmpeg240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_flann240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_gpu240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_highgui240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_imgproc240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_legacy240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_ml240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_nonfree240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_objdetect240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_photo240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_stitching240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_video240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_videostab240.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+D:\desktop data\fyp resources and study\Mouse\HandGesture\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cublas32_42_9.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cudart32_42_9.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cufft32_42_9.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_calib3d240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_contrib240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_core240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_features2d240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_ffmpeg240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_flann240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_gpu240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_highgui240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_imgproc240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_legacy240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_ml240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_nonfree240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_objdetect240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_photo240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_stitching240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_video240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_videostab240.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\desktop data\fyp resources and study\mini zain working projects\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cublas32_42_9.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cudart32_42_9.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cufft32_42_9.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_calib3d240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_contrib240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_core240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_features2d240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_ffmpeg240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_flann240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_gpu240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_highgui240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_imgproc240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_legacy240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_ml240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_nonfree240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_objdetect240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_photo240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_stitching240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_video240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_videostab240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cublas32_42_9.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cudart32_42_9.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cufft32_42_9.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_calib3d240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_contrib240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_core240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_features2d240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_ffmpeg240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_flann240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_gpu240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_highgui240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_imgproc240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_legacy240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_ml240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_nonfree240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_objdetect240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_photo240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_stitching240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_video240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\opencv_videostab240.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Users\Mini Xain\Desktop\test\HandGesture(defect error)Go Submit\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\Mini Xain\Desktop\test\SYP-Virtual MouseFinal-(17-10278M.ALI)\HGRecognition\HGRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Mini Xain\Desktop\test\SYP-Virtual MouseFinal-(17-10278M.ALI)\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\Mini Xain\Desktop\test\SYP-Virtual MouseFinal-(17-10278M.ALI)\HGRecognition\HGRecognition\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
